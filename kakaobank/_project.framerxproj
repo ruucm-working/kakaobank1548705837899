@@ -1,0 +1,37 @@
+{
+  "files" : {
+    ".yarnignore" : {
+      "sha1" : "SjOjLrZ6naANd4Um5YZ+asHhTTg=",
+      "size" : 53
+    },
+    "build/index.js" : {
+      "sha1" : "rcn9XSNzo+JKcKfPO0nu2frzjgA=",
+      "size" : 10451
+    },
+    "code/canvas.tsx" : {
+      "sha1" : "XAWJ2Vc6zFl/c1ILjaRwb7ijf8Q=",
+      "size" : 179
+    },
+    "design/document.json" : {
+      "sha1" : "cIximO6W67DIXWNqHfse+05KZa8=",
+      "size" : 2861
+    },
+    "package.json" : {
+      "sha1" : "CO7PjvM6MvoNlKzOle0L2iGyJ+k=",
+      "size" : 308
+    },
+    "README.md" : {
+      "sha1" : "2jmj7l5rSw0yVb/vlWAYkK/YBwk=",
+      "size" : 0
+    },
+    "tsconfig.json" : {
+      "sha1" : "aDUBWFOOLiSHozHi3fLJW+KdiYY=",
+      "size" : 277
+    },
+    "yarn.lock" : {
+      "sha1" : "VwfmFHob85ksNrzfqsfOqKodnMA=",
+      "size" : 772
+    }
+  },
+  "uuid" : "8088F315-7DDE-4060-8E93-95D389587C12"
+}

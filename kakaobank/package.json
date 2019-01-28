@@ -1,0 +1,21 @@
+{
+	"main": "dist/index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@types/react": "^16.4.16",
+		"framer": "^0.10.1"
+	},
+	"peerDependencies": {
+		"framer": "^0.10.1",
+		"react": "^16.3.0",
+		"react-dom": "^16.3.0"
+	},
+	"framer": {
+		"id": "a9d6c3b5-4ab1-4044-84c8-bb39ea147487"
+	},
+	"author": ". ruucm",
+	"dependencies": {
+		"@framer/kasimir.iphone-x-kit": "^1.19.0",
+		"@framer/krijn.video-player": "^1.9.0"
+	}
+}
